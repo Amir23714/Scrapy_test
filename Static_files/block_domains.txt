@@ -1,0 +1,13 @@
+#Block list domains
+#При работе удалите расширение .docx и оставьте расширение .txt
+
+ECOTERY.RU
+ECOTES.RU
+ECOTESS.RU
+ARTISTIKA-KUBAN.RU
+ARTISTIKA.RU
+ARTISTIME.RU
+YUROVDIGITAL.RU
+YUROVED.RU
+YUROVETSKIY.RU
+YUROVEXPERT.RU
